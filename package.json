@@ -1,0 +1,22 @@
+{
+  "name": "arche",
+  "version": "1.0.0",
+  "description": "Advertising application",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warjohn123/arche.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Warren John Caruana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warjohn123/arche/issues"
+  },
+  "homepage": "https://github.com/warjohn123/arche#readme"
+}
