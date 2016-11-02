@@ -1,6 +1,6 @@
 {
   "name": "arche",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Advertising application",
   "main": "index.js",
   "scripts": {
